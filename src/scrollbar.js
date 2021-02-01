@@ -172,3 +172,4 @@ ScrollBar.propTypes = {
   onSync: PropTypes.func,
   component: PropTypes.string,
 };
+

@@ -2,8 +2,8 @@
   "name": "react-perfect-scrollbar",
   "version": "1.5.8",
   "description": "A react wrapper for perfect-scrollbar",
-  "main": "lib/index.js",
-  "typings": "lib/index.d.ts",
+  "main": "src/index.js",
+  "typings": "src/index.d.ts",
   "scripts": {
     "clean": "rimraf lib && rimraf dist",
     "build:lib": "babel src --out-dir lib && copyfiles src/index.d.ts lib -u 1",
